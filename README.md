@@ -67,6 +67,33 @@ CEI-Assignments/
 - Jupyter Notebook
 
 ---
+### Week 3
+**Customer Intelligence System using Classification, Ensemble Learning & Clustering**
+
+**Topics Covered**
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Feature Scaling
+- K-Means Clustering
+- DBSCAN Clustering
+- PCA (Principal Component Analysis)
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- XGBoost Classifier
+- Model Evaluation
+- Feature Importance
+
+## Tools & Libraries
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Jupyter Notebook
 
 ## About
 
