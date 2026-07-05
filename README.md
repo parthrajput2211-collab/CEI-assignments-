@@ -1,6 +1,6 @@
 # CEI Assignments
 
-This repository contains my weekly assignments completed during the **Celebal Technologies Internship**. Each week's work focuses on applying data science and machine learning concepts through practical tasks and projects.
+This repository contains my weekly assignments completed during the **Celebal Technologies Internship**. Each week's work focuses on applying Data Science and Machine Learning concepts through practical assignments and hands-on implementation.
 
 ---
 
@@ -15,6 +15,11 @@ CEI-Assignments/
 ├── Week-2/
 │   ├── week2_Parth_Rohilla_.ipynb
 │   └── tesla_deliveries_dataset_2015_2025.csv
+│
+├── Week-3/
+│   ├── week3_Parth_Rohilla_.ipynb
+│   ├── Country-data.csv
+│   └── data-dictionary.csv
 │
 └── README.md
 ```
@@ -40,7 +45,7 @@ CEI-Assignments/
 ### Project
 **End-to-End Machine Learning Pipeline on Tesla Sales & Price Data**
 
-### Concepts Covered
+### Topics Covered
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
@@ -55,6 +60,32 @@ CEI-Assignments/
 
 ---
 
+## Week 3
+
+### Project
+**Customer Intelligence System using Classification, Ensemble Learning & Clustering**
+
+### Topics Covered
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Feature Scaling
+- K-Means Clustering
+- DBSCAN Clustering
+- Principal Component Analysis (PCA)
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- XGBoost Classifier
+- Model Evaluation
+- Feature Importance
+
+### Files
+- `week3_Parth_Rohilla_.ipynb`
+- `Country-data.csv`
+- `data-dictionary.csv`
+
+---
+
 ## Technologies Used
 
 - Python
@@ -63,41 +94,15 @@ CEI-Assignments/
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XGBoost
 - Statsmodels
 - Jupyter Notebook
 
 ---
-### Week 3
-**Customer Intelligence System using Classification, Ensemble Learning & Clustering**
-
-**Topics Covered**
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing
-- Feature Scaling
-- K-Means Clustering
-- DBSCAN Clustering
-- PCA (Principal Component Analysis)
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
-- XGBoost Classifier
-- Model Evaluation
-- Feature Importance
-
-## Tools & Libraries
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- Jupyter Notebook
 
 ## About
 
-This repository is maintained as part of my internship learning journey at **Celebal Technologies**, showcasing weekly assignments and hands-on implementation of data science and machine learning concepts.
+This repository is maintained as part of my internship learning journey at **Celebal Technologies**, showcasing weekly assignments and hands-on implementation of Data Science and Machine Learning concepts.
 
 ---
 
@@ -105,4 +110,4 @@ This repository is maintained as part of my internship learning journey at **Cel
 
 **Parth Rohilla**
 
-GitHub: https://github.com/parthrajput2211-collab
+GitHub: **https://github.com/parthrajput2211-collab**
