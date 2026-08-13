@@ -6,23 +6,6 @@ This repository contains my weekly assignments completed during the **Celebal Te
 
 ## Repository Structure
 
-```
-CEI-Assignments/
-│
-├── Week-1/
-│   └── week1_Parth_Rohilla_.ipynb
-│
-├── Week-2/
-│   ├── week2_Parth_Rohilla_.ipynb
-│   └── tesla_deliveries_dataset_2015_2025.csv
-│
-├── Week-3/
-│   ├── week3_Parth_Rohilla_.ipynb
-│   ├── Country-data.csv
-│   └── data-dictionary.csv
-│
-└── README.md
-```
 
 ---
 
@@ -86,9 +69,129 @@ CEI-Assignments/
 
 ---
 
+## Week 4
+
+### Project
+**Image Classification using ANN and CNN on CIFAR-10**
+
+### Topics Covered
+- Image Classification
+- CIFAR-10 Dataset
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Batch Normalization
+- Dropout
+- Data Augmentation
+- Model Evaluation
+- Confusion Matrix
+- Classification Report
+- ANN vs CNN Comparison
+
+### Files
+- `week4_Parth_Rohilla_.ipynb`
+
+---
+
+## Week 5
+
+### Project
+**Text Generation using RNN, LSTM and GRU**
+
+### Topics Covered
+- Text Preprocessing
+- Tokenization
+- Sequence Generation
+- Word Embeddings
+- Vanilla RNN
+- LSTM
+- GRU
+- Text Generation
+- Training Loss and Accuracy Comparison
+- Model Parameter Comparison
+
+### Files
+- `week5_Parth_Rohilla_.ipynb`
+
+---
+
+## Week 6
+
+### Project
+**Image Denoising using Autoencoders on MNIST**
+
+### Topics Covered
+- MNIST Dataset
+- Image Noise Generation
+- Autoencoders
+- Denoising Autoencoders
+- Encoder and Decoder Architecture
+- Fully Connected Autoencoder
+- Convolutional Autoencoder
+- Transposed Convolution
+- Upsampling
+- Image Reconstruction
+- Mean Squared Error (MSE)
+- Model Comparison
+
+### Files
+- `week6_Parth_Rohilla_.ipynb`
+
+---
+
+## Week 7
+
+### Project
+**Document Question Answering System using Retrieval-Augmented Generation (RAG)**
+
+### Topics Covered
+- PDF Text Extraction
+- Text Chunking with Overlap
+- Sentence Transformer Embeddings
+- FAISS Vector Indexing and Semantic Retrieval
+- Cross-Encoder Reranking
+- Retrieval-Augmented Generation (RAG)
+- Context Construction
+- FLAN-T5 Answer Generation
+- Multiple-Question Evaluation
+- Retrieval and Context Inspection
+- RAG Limitations and Improvements
+
+### Files
+- `week7_Parth_Rohilla.ipynb`
+- `Data_Science_Deep_Learning_Notes_for_RAG.pdf`
+- `README.md`
+
+---
+
+## Week 8
+
+### Project
+**Single-Agent Smart Assistant – Agent Pipeline**
+
+### Topics Covered
+- Single-Agent Workflow
+- Conditional Routing
+- Tool Integration
+- Calculator Tool
+- Keyword Extractor Tool
+- Structured JSON Output
+- Input Validation
+- Error Handling
+- Sequential Tool Routing
+- Multiple Query Testing
+- Routing Evaluation
+
+### Files
+- `week8_Parth_Rohilla.ipynb`
+- `week 8 quiz.pdf`
+- `README.md`
+
+---
+
 ## Technologies Used
 
 - Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
@@ -96,13 +199,27 @@ CEI-Assignments/
 - Scikit-learn
 - XGBoost
 - Statsmodels
-- Jupyter Notebook
+- TensorFlow
+- Keras
+- PyTorch
+- OpenCV
+- NLTK
+- Sentence Transformers
+- FAISS
+- Hugging Face Transformers
+- PyMuPDF
+- Cross-Encoder
+- FLAN-T5
+- JSON
+- Regular Expressions
+- Git
+- GitHub
 
 ---
 
 ## About
 
-This repository is maintained as part of my internship learning journey at **Celebal Technologies**, showcasing weekly assignments and hands-on implementation of Data Science and Machine Learning concepts.
+This repository is maintained as part of my internship learning journey at **Celebal Technologies**, showcasing weekly assignments and hands-on implementation of Data Science, Machine Learning, Deep Learning, NLP, and Generative AI concepts.
 
 ---
 
