@@ -6,7 +6,38 @@ This repository contains my weekly assignments completed during the **Celebal Te
 
 ## Repository Structure
 
-
+CEI-Assignments/
+│
+├── Week-1/
+│ └── week1_Parth_Rohilla_.ipynb
+│
+├── Week-2/
+│ ├── week2_Parth_Rohilla_.ipynb
+│ └── tesla_deliveries_dataset_2015_2025.csv
+│
+├── Week-3/
+│ ├── week3_Parth_Rohilla_.ipynb
+│ ├── Country-data.csv
+│ └── data-dictionary.csv
+│
+├── Week-4/
+│ └── week4_Parth_Rohilla_.ipynb
+│
+├── Week-5/
+│ └── week5_Parth_Rohilla_.ipynb
+│
+├── Week-6/
+│ └── week6_Parth_Rohilla_.ipynb
+│
+├── Week-7/
+│ ├── week7_Parth_Rohilla.ipynb
+│ └── Data_Science_Deep_Learning_Notes_for_RAG.pdf
+│
+├── Week-8/
+│ ├── week8_Parth_Rohilla.ipynb
+│ └── week 8 quiz.pdf
+│
+└── README.md
 ---
 
 ## Week 1
