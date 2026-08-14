@@ -37,6 +37,13 @@ This repository contains my weekly assignments completed during the **Celebal Te
     │   ├── week8_Parth_Rohilla.ipynb
     │   └── week 8 quiz.pdf
     │
+    ├── Final-Project/
+    │   ├── MiniGPT_Parth_Rohilla.ipynb
+    │   ├── minigpt_config.json
+    │   ├── minigpt_model.pth
+    │   ├── [dataset file]
+    │   └── README.md
+    │
     └── README.md
 
 ---
@@ -214,7 +221,64 @@ This repository contains my weekly assignments completed during the **Celebal Te
 
 ### Files
 - `week8_Parth_Rohilla.ipynb`
-- `week8_quiz_answers_Parth_Rohilla.pdf`
+- `week 8 quiz.pdf`
+
+---
+
+## Final Project
+
+### Project
+**MiniGPT – GPT-Style Language Model From Scratch**
+
+### Overview
+
+A small GPT-style decoder-only Transformer language model implemented from scratch using **PyTorch**.
+
+The project focuses on understanding the fundamental components of the GPT architecture and training a small character-level language model from scratch.
+
+### Topics Covered
+- Character-Level Tokenization
+- Language Modeling
+- Token Embeddings
+- Positional Embeddings
+- Query, Key and Value
+- Causal Self-Attention
+- Multi-Head Attention
+- Feed-Forward Networks
+- Residual Connections
+- Layer Normalization
+- Transformer Blocks
+- Decoder-Only Transformer Architecture
+- Cross-Entropy Loss
+- AdamW Optimizer
+- Training and Validation
+- Autoregressive Text Generation
+- Bigram Language Model Baseline
+- Bigram vs MiniGPT Comparison
+
+### Model Training Results
+
+| Metric | Initial Loss | Final Loss |
+|---|---:|---:|
+| Training Loss | 4.309 | 2.055 |
+| Validation Loss | 4.315 | 2.093 |
+
+The model showed a significant reduction in both training and validation loss, demonstrating that it successfully learned statistical patterns from the training corpus.
+
+### Baseline Comparison
+
+A simple **Bigram language model** was implemented as a baseline.
+
+The Bigram model uses only the immediately preceding character for prediction, while MiniGPT uses causal self-attention to utilize a larger contextual window.
+
+This comparison demonstrates the advantage of Transformer-based contextual language modeling over a simple Bigram approach.
+
+### Files
+- `MiniGPT_Parth_Rohilla.ipynb`
+- `minigpt_config.json`
+- `minigpt_model.pth`
+- `[dataset file]`
+- `README.md`
 
 ---
 
