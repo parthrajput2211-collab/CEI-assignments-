@@ -277,7 +277,7 @@ This comparison demonstrates the advantage of Transformer-based contextual langu
 - `MiniGPT_Parth_Rohilla.ipynb`
 - `minigpt_config.json`
 - `minigpt_model.pth`
-- `[dataset file]`
+- `input.txt`
 - `README.md`
 
 ---
